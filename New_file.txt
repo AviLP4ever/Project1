@@ -1,1 +1,8 @@
 hello there
+After creating desktop app and remote repository online,new repositories are created both in online and offline mode.
+Offline new repository is created,further multiple repositories can be created from add repositories.
+For creating new repository online, click on repositories>new then enter the name and create.
+Copy the link from online portal and paste in github app. Select file>clone repository>paste url and click on clone.
+In any of repos or folder make a txt file, do the editing in txt file.Further the changes have to be saved.
+Add summary and click on commit to master. In the history tab all the changes will be reflected.
+In order to sync the changes done offline, click on publish or push repositories.  Therefore all the changes made will be available online after we refresh.
