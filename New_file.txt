@@ -6,3 +6,5 @@ Copy the link from online portal and paste in github app. Select file>clone repo
 In any of repos or folder make a txt file, do the editing in txt file.Further the changes have to be saved.
 Add summary and click on commit to master. In the history tab all the changes will be reflected.
 In order to sync the changes done offline, click on publish or push repositories.  Therefore all the changes made will be available online after we refresh.
+Github is a config management tool used for version controlled applications which is most commonly adapted in any of the industries where server based applications are run.
+There are other tools available for creating the online repositories ,i.e SVN or CVS,but Github is commonly used in the industry where both application and command line Git are used.
